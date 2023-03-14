@@ -5,6 +5,10 @@
 ✔️ 입에 마우스를 hover하면 모양이 바뀝니다. <br>
 <a href="https://songhui339.github.io/myCharacter_2023ver/" target="_blank">🔗 캐릭터 실물 확인하러 가기</a>
 
+## 🤔 추가 보완할 부분
+✔️ 애니메이션 추가
+✔️ 중복된 코드 유무 확인 및 간결화
+
 
 ## 🖼️ Preview
 <img src="https://github.com/songhui339/myCharacter_2023ver/blob/main/IMG/preview.png" alt="preview 이미지" width="50%">
