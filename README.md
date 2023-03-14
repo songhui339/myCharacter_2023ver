@@ -6,7 +6,7 @@
 <a href="https://songhui339.github.io/myCharacter_2023ver/" target="_blank">🔗 캐릭터 실물 확인하러 가기</a>
 
 ## 🤔 추가 보완할 부분
-✔️ 애니메이션 추가
+✔️ 애니메이션 추가<br>
 ✔️ 중복된 코드 유무 확인 및 간결화
 
 
