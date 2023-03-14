@@ -6,8 +6,8 @@
 
 :root {
     --borer-black : 10px solid #1f1f1f;
-    --yellow : #ffe432;
-    --lightgray : #e7e7e7;
+    --mint : #d1f2eb;
+    --lightgray : #fdfdfd;
     --gray : #838383;
     --black : #1f1f1f;
     --darkPink : #F08080;
@@ -96,7 +96,7 @@ body {
 [class^="ear-"] {
     width: 40px;
     height: 70px;
-    background: var(--yellow);
+    background: var(--mint);
     border: var(--borer-black);
 }
 
@@ -159,7 +159,7 @@ body {
     border-color: var(--black);
     border-style: solid;
     height: 50px;
-    background-color: var(--yellow);
+    background-color: var(--mint);
     border-radius: 20px 20px 0 0;
 }
 
@@ -168,7 +168,7 @@ body {
 }
 
 .patch .patch-left:hover {
-    background-color: #76D7C4;
+    background-color: #e5e74d;
 }
 
 .patch .patch-right {
@@ -176,5 +176,5 @@ body {
 }
 
 .patch .patch-right:hover {
-    background-color: #C39BD3;
+    background-color: #c39bd3;
 }
